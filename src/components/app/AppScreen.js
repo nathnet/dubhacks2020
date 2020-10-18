@@ -25,18 +25,18 @@ function AppScreen() {
     return(
         <div className="d-flex">
             {loc === 0 ? 
-            <button className="bg-transparent float-left" disabled>
+            <button className="bg-transparent float-left bg-color-2" disabled>
                 <PageButton isForward={false} disabled={true} />
             </button> : 
-            <button className="bg-transparent float-left" onClick={() => changePicture(false)}>
+            <button className="bg-transparent float-left bg-color-2" onClick={() => changePicture(false)}>
                 <PageButton isForward={false} />
             </button>}
             <ContentCard img={picArr[loc]} />
             {loc === picArr.length - 1 ?
-            <button className="bg-transparent float-right" disabled>
+            <button className="bg-transparent float-right bg-color-2" disabled>
                 <PageButton isForward={true} disabled={true} />
             </button> :
-            <button className="bg-transparent float-right" onClick={() => changePicture(true)}>
+            <button className="bg-transparent float-right bg-color-2" onClick={() => changePicture(true)}>
                 <PageButton isForward={true} />
             </button>}
         </div>

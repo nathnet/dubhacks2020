@@ -14,10 +14,12 @@ function PageButton(props) {
             {isForward ? 
                 <SvgIcon 
                     component={ArrowForwardIos} 
-                    className={disabled ? `opacity-25` : ``} /> : 
+                    className={disabled ? `opacity-25` : ``}
+                    htmlColor="#FFFFFF" /> : 
                 <SvgIcon 
                     component={ArrowBackIos} 
-                    className={disabled ? `opacity-25` : ``} />}
+                    className={disabled ? `opacity-25` : ``}
+                    htmlColor="#FFFFFF" />}
         </div>
     );
 }

@@ -28,6 +28,10 @@ body {
   background-color: #f6e9bf;
 }
 
+.bg-color-2 {
+  background-color: #decfa0 !important;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -74,8 +78,8 @@ code {
   }
 /* } */
 
-.embed-responsive-30by9 {
-  padding-top: 30%;
+.embed-responsive-4by5 {
+  padding-top: 125%;
 }
 
 .hide-overflow-pic {
