@@ -5,12 +5,23 @@
   src: url('fonts/OpenDyslexic-Regular.otf');
 }
 
+@font-face {
+  font-family: 'OpenDyslexicBold';
+  font-style: bold;
+  font-weight: 700;
+  src: url('fonts/OpenDyslexic-Bold.otf');
+}
+
 body {
   background-color: #f6e9bf;
   margin: 0;
   font-family: 'OpenDyslexic', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.text-black {
+  color: #000;
 }
 
 .bg-color {
@@ -73,4 +84,12 @@ code {
 
 .object-position-bottom {
   object-position: bottom;
+}
+
+#one:hover, #two:hover, #three:hover {
+  font-family: 'OpenDyslexicBold', Arial, sans-serif;
+}
+
+.opacity-25 {
+  opacity: 0.25;
 }
