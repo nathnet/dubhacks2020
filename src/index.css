@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'OpenDyslexic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/OpenDyslexic-Regular.otf');
+}
+
+body {
+  background-color: #f6e9bf;
+  margin: 0;
+  font-family: 'OpenDyslexic', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-color {
+  background-color: #f6e9bf;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar * {
+  font-size: 1.5rem;
+}
+
+.navbar-toggler-icon {
+  width: 2.17em;
+  height: 2.17em;
+}
+
+/* @media (max-width: 575.98px) {
+  .navbar-expand-false #toggler {
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+}
+
+@media (min-width: 576px) { */
+  .navbar-expand-false {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+  .navbar-expand-false .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+  .navbar-expand-false .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+  .navbar-expand-false .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+  .navbar-expand-false > .container,
+  .navbar-expand-false > .container-fluid, .navbar-expand-false > .container-sm, .navbar-expand-false > .container-md, .navbar-expand-false > .container-lg, .navbar-expand-false > .container-xl {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+  }
+/* } */
+
+.embed-responsive-30by9 {
+  padding-top: 30%;
+}
+
+.hide-overflow-pic {
+  object-fit: cover;
+}
+
+.object-position-bottom {
+  object-position: bottom;
+}
