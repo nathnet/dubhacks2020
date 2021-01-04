@@ -10,11 +10,11 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 function App() {
 
   function bookChooser({ match }) {
-    // const book = sth.filter((bookName) =>
-    //   bookName.name.toLowerCase() === match.params.book)[0];
+    /* const book = sth.filter((bookName) =>
+      bookName.name.toLowerCase() === match.params.book)[0]; */
 
     return(
-      // !book ? <Route component={ErrorScreen} /> : 
+      /* !book ? <Route component={ErrorScreen} /> :  */
       <AppScreen />
     )
   }
