@@ -1,17 +1,23 @@
 import React, { useState } from 'react';
 import ContentCard from './ContentCard';
 import PageButton from './PageButton';
+import introPic from '../../assets/intro.gif';
+import hungryPic from '../../assets/hungry.gif';
+import applePic from '../../assets/apple.gif';
+import orangePic from '../../assets/orange.gif';
+import bananaPic from '../../assets/banana.gif';
+import finalPic from '../../assets/final.gif';
 
 function AppScreen() {
 
     const [loc, setLoc] = useState(0);
 
-    const picArr = ["./assets/intro.gif",
-                        "./assets/hungry.gif",
-                        "./assets/apple.gif",
-                        "./assets/orange.gif",
-                        "./assets/banana.gif",
-                        "./assets/final.gif"];
+    const picArr = [introPic,
+                        hungryPic,
+                        applePic,
+                        orangePic,
+                        bananaPic,
+                        finalPic];
 
     function changePicture(goForward) {
         console.log(goForward);

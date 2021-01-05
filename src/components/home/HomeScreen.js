@@ -14,7 +14,8 @@ function HomeScreen() {
                         <img src={require("../../assets/lexi_eat.png")} 
                             className="mx-4"
                             width="125px"
-                            height="125px" />
+                            height="125px"
+                            alt="story one" />
                         <p className="d-inline-block h1 mx-5 my-0">
                             Lexi is Hungry
                         </p>
@@ -25,7 +26,8 @@ function HomeScreen() {
                         <img src={require("../../assets/lexi_with_family.png")} 
                             className="mx-4"
                             width="125px"
-                            height="125px" />
+                            height="125px"
+                            alt="story two" />
                         <p className="d-inline-block h1 mx-5 my-0">
                             Lexi's Family
                         </p>
@@ -36,7 +38,8 @@ function HomeScreen() {
                         <img src={require("../../assets/lexi_and_ball.png")} 
                             className="mx-4"
                             width="125px"
-                            height="125px" />
+                            height="125px"
+                            alt="story three" />
                         <p className="d-inline-block h1 mx-5 my-0">
                             Lexi Wants to Play
                         </p>

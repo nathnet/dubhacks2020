@@ -15,11 +15,11 @@ function PageButton(props) {
                 <SvgIcon 
                     component={ArrowForwardIos} 
                     className={disabled ? `opacity-25` : ``}
-                    htmlColor="#FFFFFF" /> : 
+                    color='primary' /> : 
                 <SvgIcon 
                     component={ArrowBackIos} 
                     className={disabled ? `opacity-25` : ``}
-                    htmlColor="#FFFFFF" />}
+                    color='primary' />}
         </div>
     );
 }

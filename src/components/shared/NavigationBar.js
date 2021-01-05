@@ -22,7 +22,7 @@ function NavigationBar() {
                                 </Nav.Link>
                             </Nav.Item>
                             <Navbar.Brand>
-                                <img src={require("../../assets/lexi_logo.png")} width="52" height="52" />
+                                <img src={require("../../assets/lexi_logo.png")} width="52" height="52" alt="nav icon" />
                             </Navbar.Brand>
                             <Nav.Item className="px-3">
                                 <Nav.Link
