@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dubhacks2020/static/css/main.34f8a87f.chunk.css",
+    "main.js": "/dubhacks2020/static/js/main.3f6be6e4.chunk.js",
+    "main.js.map": "/dubhacks2020/static/js/main.3f6be6e4.chunk.js.map",
+    "runtime-main.js": "/dubhacks2020/static/js/runtime-main.12a458a3.js",
+    "runtime-main.js.map": "/dubhacks2020/static/js/runtime-main.12a458a3.js.map",
+    "static/css/2.2a86faee.chunk.css": "/dubhacks2020/static/css/2.2a86faee.chunk.css",
+    "static/js/2.dc18d6e7.chunk.js": "/dubhacks2020/static/js/2.dc18d6e7.chunk.js",
+    "static/js/2.dc18d6e7.chunk.js.map": "/dubhacks2020/static/js/2.dc18d6e7.chunk.js.map",
+    "index.html": "/dubhacks2020/index.html",
+    "precache-manifest.92ab6c68bd203e120ed417fa2bacf36f.js": "/dubhacks2020/precache-manifest.92ab6c68bd203e120ed417fa2bacf36f.js",
+    "service-worker.js": "/dubhacks2020/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/dubhacks2020/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.34f8a87f.chunk.css.map": "/dubhacks2020/static/css/main.34f8a87f.chunk.css.map",
+    "static/js/2.dc18d6e7.chunk.js.LICENSE.txt": "/dubhacks2020/static/js/2.dc18d6e7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dubhacks2020/static/media/OpenDyslexic-Regular.be1e6672.otf",
+    "static/media/lexi_and_ball.png": "/dubhacks2020/static/media/lexi_and_ball.9f6aa87d.png",
+    "static/media/lexi_eat.png": "/dubhacks2020/static/media/lexi_eat.15dabf18.png",
+    "static/media/lexi_logo.png": "/dubhacks2020/static/media/lexi_logo.6cc6f5e4.png",
+    "static/media/lexi_with_family.png": "/dubhacks2020/static/media/lexi_with_family.87530753.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a458a3.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.dc18d6e7.chunk.js",
+    "static/css/main.34f8a87f.chunk.css",
+    "static/js/main.3f6be6e4.chunk.js"
+  ]
+}
