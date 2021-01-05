@@ -20,7 +20,6 @@ function AppScreen() {
                         finalPic];
 
     function changePicture(goForward) {
-        console.log(goForward);
         if (goForward) {
             setLoc(loc + 1);
         } else {
