@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dubhacks2020/static/css/main.34f8a87f.chunk.css",
-    "main.js": "/dubhacks2020/static/js/main.20c77e8e.chunk.js",
-    "main.js.map": "/dubhacks2020/static/js/main.20c77e8e.chunk.js.map",
+    "main.js": "/dubhacks2020/static/js/main.fc603e39.chunk.js",
+    "main.js.map": "/dubhacks2020/static/js/main.fc603e39.chunk.js.map",
     "runtime-main.js": "/dubhacks2020/static/js/runtime-main.12a458a3.js",
     "runtime-main.js.map": "/dubhacks2020/static/js/runtime-main.12a458a3.js.map",
     "static/css/2.2a86faee.chunk.css": "/dubhacks2020/static/css/2.2a86faee.chunk.css",
     "static/js/2.301e7904.chunk.js": "/dubhacks2020/static/js/2.301e7904.chunk.js",
     "static/js/2.301e7904.chunk.js.map": "/dubhacks2020/static/js/2.301e7904.chunk.js.map",
     "index.html": "/dubhacks2020/index.html",
-    "precache-manifest.3e9d0c1df5cf41f25757a482d921265e.js": "/dubhacks2020/precache-manifest.3e9d0c1df5cf41f25757a482d921265e.js",
+    "precache-manifest.8ca2589520262be61dcdb43ceb0e583a.js": "/dubhacks2020/precache-manifest.8ca2589520262be61dcdb43ceb0e583a.js",
     "service-worker.js": "/dubhacks2020/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/dubhacks2020/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.34f8a87f.chunk.css.map": "/dubhacks2020/static/css/main.34f8a87f.chunk.css.map",
@@ -36,6 +36,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.301e7904.chunk.js",
     "static/css/main.34f8a87f.chunk.css",
-    "static/js/main.20c77e8e.chunk.js"
+    "static/js/main.fc603e39.chunk.js"
   ]
 }

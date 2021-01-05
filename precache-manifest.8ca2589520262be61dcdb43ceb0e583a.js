@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "022dc75dc3bddba3a075006f25d006a4",
+    "revision": "bf57f15c6aa00bbe0fb001f00da9d26e",
     "url": "/dubhacks2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubhacks2020/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "8e137e4bcf1c09df73a4",
+    "revision": "f230afad9d7fa3da7b2b",
     "url": "/dubhacks2020/static/css/main.34f8a87f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dubhacks2020/static/js/2.301e7904.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e137e4bcf1c09df73a4",
-    "url": "/dubhacks2020/static/js/main.20c77e8e.chunk.js"
+    "revision": "f230afad9d7fa3da7b2b",
+    "url": "/dubhacks2020/static/js/main.fc603e39.chunk.js"
   },
   {
     "revision": "cd0767e255a036876ccd",
